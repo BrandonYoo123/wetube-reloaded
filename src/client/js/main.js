@@ -1,2 +1,2 @@
-import "regenerator-runtime";
+require("regenerator-runtime/runtime");
 import "../scss/styles.scss";
